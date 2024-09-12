@@ -1,11 +1,16 @@
-package org.example;
+/**
+ * Clase de prueba del proyecto
+ */
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+package org.example;
+//todo cambiar de descripcion
 public class Main {
+    /**
+     * Procedimiento main trivial
+     * @param args parametros de entrada ninguno.
+     */
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        // salida estandar
+        System.out.println("Hello and welcome!");
     }
 }
